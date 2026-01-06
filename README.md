@@ -1,6 +1,9 @@
 # Duolingo Sentiment Analysis
+**Project type:** Data Analysis Project  
+**Executive summary:** [View report](https://quilted-oriole-d3e.notion.site/Sentiment-Analysis-Duolingo-29a350f1421380878bc5e5be4ab0a0c7)
 
 **Duolingo Sentiment Analysis** is an exploratory NLP and data analytics project that examines public sentiment toward Duolingo using Twitter data. The project combines multiple sentiment classification approaches, text preprocessing pipelines, and exploratory analysis to uncover **user pain points, product risks, and the impact of external events** on brand perception.
+
 
 > Note: This repository reflects an **exploratory, research-oriented workflow** rather than a production-ready pipeline. The focus is on insight discovery and comparative analysis of NLP techniques.
 
